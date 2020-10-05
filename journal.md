@@ -1,3 +1,20 @@
+
+
+
+
+_Mod1:_
+
+_Week1 Day 1_
+
+1. Describe one of your strengths:
+
+I can follow logical statements quickly and accurately. I know how to interpret most methods of logical steps. I am able to communicate logical statements accurately and clearly. This all combines into a strength where I am able to clearly catch someone up on the work that I have done.
+
+2. Read through your Top 4 results from Pairin:
+
+ My Pairin resuts tell me that I am very much influenced by the people around me, and want to make sure that we are all on the same page. I want the work that I am doing to be beneficial to others, and for it to help people. This does resonate with me - it is how I would describe myself, both in terms of my methods of thinking and for the sources that drive me. This is very similar to the strength I wrote abou above.
+
+_Mod0:_
 When you've worked towards a goal in the past, what systems or tools have been helpful for you in accomplishing that goal? How could you adapt those same systems/tools to use while at Turing?
 
   The biggest thing for myself is staying organized, especially in terms of my larger picture. By that I mean not losing sight of the end goals that I have. I often set myself soft deadlines, depending upon my understanding of what my work timeline looks like, and then I reassess as I hit that deadline.
