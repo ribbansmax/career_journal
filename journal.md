@@ -4,7 +4,7 @@
 
 _Mod1:_
 
-_Week1 Day 1_
+_Week1_
 
 1. Describe one of your strengths:
 
@@ -12,7 +12,26 @@ I can follow logical statements quickly and accurately. I know how to interpret 
 
 2. Read through your Top 4 results from Pairin:
 
- My Pairin resuts tell me that I am very much influenced by the people around me, and want to make sure that we are all on the same page. I want the work that I am doing to be beneficial to others, and for it to help people. This does resonate with me - it is how I would describe myself, both in terms of my methods of thinking and for the sources that drive me. This is very similar to the strength I wrote abou above.
+ My Pairin resuts tell me that I am very much influenced by the people around me, and want to make sure that we are all on the same page. I want the work that I am doing to be beneficial to others, and for it to help people. This does resonate with me - it is how I would describe myself, both in terms of my methods of thinking and for the sources that drive me. This is very similar to the strength I wrote about above.
+ 
+ 
+3. Challenges with strengths
+
+ One of the tricky things about recognizing my strengths is in analyzing the method that I work from a third perspective. I think the best way to work through that, and practice that skill, is by doing this career journal. Constantly answering these kind of questions is a good thing to develop that skill!
+ One strength I do see myself overusing is my ability to hyperfocus in on a task. This can sometimes let me lose track of other work I should be doing. A good method for fixing this is the pomodoro (sp?) method, because then every 45, 50 minutes or so I can take a break and maybe breathe and not feel like I have to stay so intensely focused on what I have been working on.
+ 
+4. Strengths in action
+
+ I like to talk through my ideas when I am working. I also like deadlines, if only to ignore them because they are arbitrary, and most useful only for motivation to begin work.
+ As far as describing these working preferences go, I would say that my preferences fit into most scaffolds of 'having a pla' even if I am not the biggest proponent of sticking to the plan word for word.
+ As far as what I need to be aware of when working with other people, I think I need to make sure that there are regularly scheduled methods of communication, because all plans change, and I can be quick to take things in a different path if it seems better, and those are the type of directions that necessitate communication.
+ My Pairin results accurately depict my drive to intuitively work, but also to not be a lone wolf.
+ 
+ 5. Continued growth
+ 
+  An area I would like to sharpen is my skill in self-promotion, or at least self-strength-expression.
+  One step, in addition to this journal, would be to constantly ask for feedback on my work, and not just consturctive feedback, but also feedback more along the lines of how I chose to approach the work. (also, not in terms of fishing for compliments, but just to get more examples of how other people would frame the thing I am doing, because in the past I have been bad at wording my own strengths.)
+ 
 
 _Mod0:_
 When you've worked towards a goal in the past, what systems or tools have been helpful for you in accomplishing that goal? How could you adapt those same systems/tools to use while at Turing?
