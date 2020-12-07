@@ -41,7 +41,7 @@ If you will not be able to complete your journal this week, please provide an up
 
 ### Mod 2 
 
-Week 1: [Link here to your gist]
+Week 1: [https://github.com/ribbansmax/career_journal/blob/master/m2w1.md]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
