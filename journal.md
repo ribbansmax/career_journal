@@ -42,35 +42,35 @@ If you will not be able to complete your journal this week, please provide an up
 ### Mod 2 
 
 Week 1: [https://github.com/ribbansmax/career_journal/blob/master/m2w1.md]
-- [ ] (completed)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 Week 2: [https://github.com/ribbansmax/career_journal/blob/master/m2w2.md]
-- [ ] (completed)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 Week 3: [https://github.com/ribbansmax/career_journal/blob/master/m2w3.md]
-- [ ] (completed)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 Week 4: [https://github.com/ribbansmax/career_journal/blob/master/m2w4.md]
-- [ ] (completed)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
-Week 5: [Link here to your gist]
-- [ ] (completed)
+Week 5: [https://github.com/ribbansmax/career_journal/blob/master/m2w5.md]
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
